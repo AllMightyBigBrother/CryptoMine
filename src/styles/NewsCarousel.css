@@ -1,0 +1,36 @@
+.slide {
+  width: 100%;
+  border-radius: 40px;
+}
+.slide img {
+  width: 100%;
+  border-radius: 40px;
+}
+
+.carousel {
+  width: 100%;
+  margin-bottom: 50px;
+  box-shadow: 20px 20px 40px rgba(0, 0, 0, 0.2);
+  border-radius: 40px;
+}
+
+.carousel img {
+  width: 100%;
+  object-fit: cover;
+  border-radius: 40px;
+}
+
+.carousel-caption h1 {
+  color: white;
+  text-align: left;
+  text-shadow: 2px 2px 0 black;
+}
+
+.d-block,
+.w-100 {
+  border-radius: 30px;
+}
+
+.carousel-link {
+  color: white !important;
+}
